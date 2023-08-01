@@ -1,0 +1,15 @@
+.banner {
+  background: url("../../img/header2.jpg") no-repeat center center;
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 10%;
+  color: #fff;
+}
+
+.footer-bg {
+  background: url("../../img/foot-bg.jpg") no-repeat center center;
+  background-size: cover;
+  padding-top: 5%;
+  padding-bottom: 0%;
+  color: #fff;
+}
